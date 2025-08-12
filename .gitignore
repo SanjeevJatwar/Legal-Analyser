@@ -1,1 +1,16 @@
 
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment & secrets
+.env
+*.key
+*.pem
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
